@@ -18,6 +18,10 @@ header {
   padding: 30px 60px;
 }
 
+header > a {
+  text-decoration: none;
+}
+
 .profile-name {
   margin: 0;
   font-size: 22px;
